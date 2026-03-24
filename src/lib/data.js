@@ -78,5 +78,15 @@ export const PROJECTS = [
     techStack: ["HTML", "CSS", "JavaScript"],
     githubLink: "https://github.com/Thivya-prasath-30/To-do-list-app",
     liveDemo: "https://to-do-list-app-two-fawn.vercel.app"
+  },
+  {
+    _id: "ai-resume-checker",
+    title: "AI_Resume Checker",
+    description: "An AI-powered resume checker that evaluates resume quality and recommends improvements.",
+    category: "AI",
+    image: "/ai-resume-checker.png",
+    techStack: ["Python", "JavaScript", "Next.js"],
+    githubLink: "https://github.com/Thivya-prasath-30/AI_Projects",
+    liveDemo: "https://ai-projects-tan.vercel.app"
   }
 ];
